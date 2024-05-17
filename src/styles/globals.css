@@ -1,0 +1,12 @@
+header{
+  display: flex;
+  gap: 24px;
+  padding: 24px;
+  color: white;
+}
+body{
+  max-width: 920px;
+  margin: auto;
+  background-color: black;
+  color: white;
+}
